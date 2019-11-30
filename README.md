@@ -5,8 +5,8 @@ Ponderal index calculator implemented in Go
 ## Installation
 
 ```bash
-git clone git@github.com/go-shway/shway.git
-cd shway
+git clone git@github.com/usk81/go-pi.git
+cd go-pi
 go build -ldflags '-w -s' -o go-pi
 ```
 
